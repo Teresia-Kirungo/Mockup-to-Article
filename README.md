@@ -11,3 +11,5 @@ Review the Article to Mockup Project Rubric.
 - What has been easy?
 - What has been difficult?
 - How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+### Project complete! view [here](https://teresia-kirungo.github.io/Mockup-to-Article/index.html)
